@@ -44,8 +44,8 @@ module.exports = {
           { lineHeight: '1.28', letterSpacing: '-0.01em' },
         ],
         'body-xl': ['18px', { lineHeight: '1.65' }],
-        'body-lg': ['16px', { lineHeight: '1.65' }],
-        'body-md': ['15px', { lineHeight: '1.6' }],
+        'body-lg': ['16px', { lineHeight: '1' }],
+        'body-md': ['15px', { lineHeight: '1.3' }],
         'body-sm': ['13px', { lineHeight: '1.55' }],
       },
       boxShadow: {

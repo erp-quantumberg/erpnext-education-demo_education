@@ -12,7 +12,7 @@ const indicators = [
 </script>
 
 <template>
-  <section id="home" class="relative overflow-hidden bg-white pb-16 pt-28 sm:pb-20 sm:pt-32 lg:pb-24 lg:pt-40">
+  <section id="home" class="relative overflow-hidden bg-white pb-12 pt-20 sm:pb-14 sm:pt-32 lg:pb-16 lg:pt-24">
     <div
       class="pointer-events-none absolute -right-32 -top-32 h-[420px] w-[420px] rounded-full bg-brand-gradient-soft blur-3xl"
       aria-hidden="true" />

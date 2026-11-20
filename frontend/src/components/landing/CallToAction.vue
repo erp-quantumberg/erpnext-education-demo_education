@@ -5,7 +5,7 @@ const { loginUrl } = useLoginUrl()
 </script>
 
 <template>
-  <section id="get-started" class="relative overflow-hidden bg-brand-gradient py-20 lg:py-24">
+  <section id="get-started" class="relative overflow-hidden bg-brand-gradient py-14 lg:pt-12 lg:pb-20">
     <div class="pointer-events-none absolute inset-0 opacity-[0.12]" aria-hidden="true" style="
         background-image: radial-gradient(circle at 20% 20%, #fff 1px, transparent 1px);
         background-size: 22px 22px;
@@ -15,7 +15,7 @@ const { loginUrl } = useLoginUrl()
       <h2 class="text-display-sm font-extrabold text-white sm:text-display-md">
         Ready to Simplify Education Management?
       </h2>
-      <p class="mx-auto mt-4 max-w-2xl text-body-xl text-white/85">
+      <p class="mx-auto mt-4 max-w-2xl text-body-xl text-white">
         Bring students, instructors, and education operations together in one
         connected platform.
       </p>

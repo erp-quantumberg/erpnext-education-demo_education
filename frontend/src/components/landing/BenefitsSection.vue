@@ -31,7 +31,7 @@ const benefits = [
 </script>
 
 <template>
-  <section class="scroll-mt-24 bg-edu-bg py-20 lg:py-28">
+  <section class="scroll-mt-24 bg-edu-bg py-14 lg:pt-12 lg:pb-20">
     <div class="mx-auto grid max-w-7xl items-center gap-14 px-4 sm:px-6 lg:grid-cols-2 lg:gap-20 lg:px-8">
       <div class="relative order-2 lg:order-1">
         <div class="rounded-[26px] bg-brand-gradient p-1.5 shadow-panel">
